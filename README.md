@@ -1,4 +1,4 @@
-# snake
+# snake :snake:
 classic snake game!!!!!
 ### Dependencies
 - javascript enabled web browser
